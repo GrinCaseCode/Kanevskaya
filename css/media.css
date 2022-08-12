@@ -297,7 +297,7 @@
 		left: 0;
 		height: 100vh;
 		padding: 15px 15px;
-		padding-bottom: 120px;
+		padding-bottom: 170px;
 		display: none;
 		overflow: auto;
 		background-color: #fff;
@@ -311,6 +311,9 @@
 		color: #000;
 		text-align: left;
 		border-bottom: 1px solid #000;
+	}
+	.menu > li > a:hover {
+		background-color: transparent;
 	}
 	.menu-mobile  .menu {
 		display: block;
