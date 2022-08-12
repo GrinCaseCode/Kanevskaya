@@ -298,7 +298,7 @@
 		height: 100vh;
 		padding: 15px 15px;
 		padding-bottom: 170px;
-		display: none;
+		display: none; 
 		overflow: auto;
 		background-color: #fff;
 		position: absolute;
