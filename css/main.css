@@ -407,7 +407,7 @@ form {
 	display: block;
 	content: " ";
 	width: 20px;
-	height: 20px;
+	height: 20px; 
 	top: 4px;
 	left: 0;
 	background-image: url(../img/ic_li.svg);
